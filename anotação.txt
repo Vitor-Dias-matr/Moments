@@ -1,0 +1,9 @@
+→Pra rodar a api: node ace serve
+→Pra rodar o projeto: ng serve
+
+Se for rodar a 1ª vez a api: 
+->Olhar i tutorial pra rodar a api:
+https://www.youtube.com/watch?v=xTCBaGeYTck&list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw&index=22
+Se for rodar a 1ª vez o projeto: 
+->Dar o comando npm install no projeto: npm install -g @angular/cli@13.0.0
+->Dar o comando npm install no projeto: ng serve
